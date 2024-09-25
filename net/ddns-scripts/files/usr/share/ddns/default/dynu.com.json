@@ -1,9 +1,9 @@
 {
 	"name": "dynu.com",
 	"ipv4": {
-		"url": "http://api.dynu.com/nic/update?hostname=[DOMAIN]&myip=[IP]&username=[USERNAME]&password=[PASSWORD]"
+					"url": "http://api-ipv4.dynu.com/nic/update?hostname=[DOMAIN]&alias=[PARAMOPT]&myip=[IP]&username=[USERNAME]&password=[PASSWORD]"
 	},
 	"ipv6": {
-		"url": "http://api.dynu.com/nic/update?hostname=[DOMAIN]&myipv6=[IP]&username=[USERNAME]&password=[PASSWORD]"
+					"url": "http://api-ipv6.dynu.com/nic/update?hostname=[DOMAIN]&alias=[PARAMOPT]&myipv6=[IP]&username=[USERNAME]&password=[PASSWORD]"
 	}
 }
